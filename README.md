@@ -1,0 +1,2 @@
+# ascii-3d-game-engine
+ This is an experimental project where I built a 3D rendering game engine using ASCII characters. This project was a fun and educational journey into the world of game development, particularly focusing on creating a retro-style first-person shooter (FPS) game. Despite its simplicity, it showcases fundamental concepts in graphics rendering, collision detection, and game mechanics.
